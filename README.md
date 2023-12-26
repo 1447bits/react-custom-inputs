@@ -18,6 +18,12 @@ The **CustomInputTag** React component is designed to create an input field with
   - Appends a "%" sign at the end of the input value.
   - Does not add commas for improved usability.
 
+---
+
+![demo image](./assets/demo-image.png)
+
+---
+
 ## Usage
 
 0. git clone
